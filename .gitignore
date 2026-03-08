@@ -1,0 +1,6 @@
+.venv311/
+__pycache__/
+*.pyc
+26.0.1
+python
+python.exe
